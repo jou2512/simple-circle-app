@@ -1,0 +1,10 @@
+/* src/Circle.css */
+.circle {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: blue;
+}
