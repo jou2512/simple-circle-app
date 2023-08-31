@@ -1,8 +1,7 @@
 // public/react-dynamic-injector.js
 (function () {
   // Define the URL of your React app's JavaScript bundle hosted on GitHub Pages.
-  const reactAppScriptUrl =
-    "https://username.github.io/repo-name/static/js/main.<hash>.js"; // Replace with your actual URL
+  const reactAppScriptUrl ="https://github.com/jou2512/simple-circle-app/static/js/main.<hash>.js"; // Replace with your actual URL
 
   // Create a script element to load the React app.
   const script = document.createElement("script");
